@@ -2,6 +2,6 @@
   "name": "turnieje-szachowe",
   "private": true,
   "dependencies": {
-    "bootstrap": "~3.2.0"
+    "bootstrap": "3.3.4"
   }
 }
